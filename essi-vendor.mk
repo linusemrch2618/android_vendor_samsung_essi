@@ -1375,7 +1375,6 @@ PRODUCT_PACKAGES += \
     manifest_android.hardware.drm@1.4-service.widevine \
     memtrack \
     power-exynos \
-    power-samsung \
     sec.android.hardware.nfc@1.2-service \
     sec_c2_manifest_default0_1_0 \
     vaultkeeper_manifest \
